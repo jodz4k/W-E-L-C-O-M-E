@@ -1,49 +1,70 @@
 # W-E-L-C-O-M-E
 
-## 🚀 Dobrodošli na moj GitHub profil! 🚀
-### 👨‍💻 Osnovne informacije
-Ime: Jovan Kupusović
-Fakultet: Prirodno matematički fakultet 
-Smjer: Informacione tehnologije
-Godina studija: Treća godina
-Grad: Novi Sad
-### 👨‍💻 O meni
+## 🚀 Welcome to my GitHub profile! 🚀
+### 👨‍💻 Basic Information
+Name: Jovan Kupusović
+University: Faculty of Sciences, University of Novi Sad
+Major: Information Technology
+Year of Study: Third year
+City: Novi Sad
+
+### 👨‍💻 About Me
 Motivated and proactive individual with a passion for programming and music. Experienced in competitive chess with a strong track record of consistently winning numerous tournaments. A creative and logical thinker with a continuous drive for personal and professional growth. Committed to lifelong learning and embracing challenges with a positive attitude. Currently pursuing studies in IT while attending the "Isidor Bajić" Music High School.
 
-### 🌐 Programski jezici i tehnologije
-#### Jezici:
+### 🌐 Programming Languages and Technologies
+#### Languages:
 Java, Python, C, HTML, JavaScript, TypeScript, CSS, Assembly x86
-#### Okruzenja, alati i frameworks
+#### Environments, Tools, and Frameworks:
 Spring, Angular, Git, Debugging tools, API Design and development, NodeJS, Microsoft Project
-#### Baze podataka i strukture podataka:
+#### Databases and Data Structures:
 MySQL, MongoDB, Neo4J
-#### Metodologije
+#### Methodologies:
 Scrum, Kanban, Kaizen
-#### Computer science concepts and skills
+#### Computer Science Concepts and Skills:
 AI (Artificial Intelligence), Algorithms, Network, Physics, Metrics
 
-### 🛠️ Projekti
-#### [[E_Wallet](https://github.com/jodz4k/e_wallet)]
-
-##### Opis:
-Projekat rađen prema zadatku sa predmeta Seminarski A. Implementacija male Python aplikacije koja je bazirana u terminalu.
-##### Tehnologije:
+### 🛠️ Projects
+#### [E_Wallet](https://github.com/jodz4k/e_wallet)
+##### Description:
+A project developed for the Seminarski A subject. Implementation of a small Python application based in the terminal.
+##### Technologies:
 Python, Git.
 
-Link: [Link do repozitorija]
-#### [[Naziv Projekta 2](https://github.com/jodz4k/Polilingo-Spring-web-app)]
+#### [Polilingo Web App](https://github.com/jodz4k/Polilingo-Spring-web-app)
+##### Description:
+An application developed for the "Development of Information Systems" subject.
+##### Technologies:
+Spring, MySQL, Eclipse, Kanban.
 
-Opis: Kratki opis projekta.
-Tehnologije: Navedene tehnologije koje su korištene.
-Link: [Link do repozitorija]
-### 📚 Certifikati i edukacija
+#### [Andjelika web app](https://github.com/jodz4k/lab-lab-ai-hackaton)
+##### Description:
+A web app designed to assist travelers in navigating foreign cities, socializing with locals, and discovering places of interest.
+##### Technologies:
+Python, Visual Studio Code, Co:here
 
-### 🌱 Trenutno učim
-Dublje zaroniti u područje razvoja mobilnih aplikacija koristeći Flutter.
-Usavršavam se u radu s bazama podataka, posebno MySQL i MongoDB.
-### 🤝 Kontakt
-LinkedIn: https://www.linkedin.com/in/jovan-kupusovic-90b90725b/
-### 🎯 Ciljevi
-Razvijati se u smjeru punopravnog full-stack developera.
-Doprinijeti open-source projektima i zajednici.
-🙏 Hvala što ste posjetili moj profil! Ako imate pitanja ili prijedloge, slobodno me kontaktirajte.
+#### [Hackathon: 5 days in Clouds](https://github.com/jodz4k/5-dana-u-oblacima-23)
+##### Description:
+API solution developed for the elimination phase of the "Levi9" hackathon.
+##### Technologies:
+Spring, Java, Eclipse IDE.
+
+### 📚 Certificates and Education
+#### HSK1
+Passed the first level of the Chinese language during high school.
+#### Hard Skills Academy
+Certificate for participating in an academy aimed at developing skills.
+#### Transformers AI Hackathon 
+Certificate for participating in a hackathon.
+
+### 🌱 Currently Learning
+Diving deeper into data processing and the world of Data Science. Improving skills in working with databases, especially SQL (Oracle and MySQL) and NoSQL (MongoDB and Neo4J). Developing full-stack programming skills in Angular as frontend and Spring as backend. Enhancing logical thinking by practicing algorithms and their implementations.
+
+### 🤝 Contact
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jovan-kupusovic-90b90725b/)
+
+### 🎯 Goals
+To evolve into a full-stack developer. 
+To contribute to open-source projects and the community. 
+To become a brand representative. 
+
+## 🙏 Thank you for visiting my profile! If you have any questions or suggestions, feel free to contact me.
