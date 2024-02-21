@@ -66,5 +66,6 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jovan-kupusovic-90b9072
 To evolve into a full-stack developer. 
 To contribute to open-source projects and the community. 
 To become a brand representative. 
+To master Scrum methodology and Software Project managment.
 
 ## 🙏 Thank you for visiting my profile! If you have any questions or suggestions, feel free to contact me.
