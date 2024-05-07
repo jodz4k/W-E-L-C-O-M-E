@@ -13,7 +13,7 @@ Motivated and proactive individual with a passion for programming and music. Exp
 
 ### 🌐 Programming Languages and Technologies
 #### Languages:
-Java, Python, C, HTML, JavaScript, TypeScript, CSS, Assembly x86
+Java, Python, C, HTML, JavaScript, TypeScript, CSS, Assembly x86, Scala
 #### Environments, Tools, and Frameworks:
 Spring, Angular, Git, Debugging tools, API Design and development, NodeJS, Microsoft Project
 #### Databases and Data Structures:
