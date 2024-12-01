@@ -5,7 +5,7 @@
 Name: Jovan Kupusović
 University: Faculty of Sciences, University of Novi Sad
 Major: Information Technology
-Year of Study: Third year
+Year of Study: Fourth year
 City: Novi Sad
 
 ### 👨‍💻 About Me
